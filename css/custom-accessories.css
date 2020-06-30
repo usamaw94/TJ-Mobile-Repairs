@@ -1,0 +1,14 @@
+.custom-accessories {
+    margin-top: 60px;
+}
+
+#header.custom-header-fixed {
+    background: linear-gradient(45deg, #797979, #262626);
+    padding: 20px 0;
+    height: 72px;
+    transition: all 0.5s;
+}
+
+#pricing .featured {
+    border: 1px solid #919191;
+}
